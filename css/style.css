@@ -1,0 +1,42 @@
+body,
+html {
+  height: 100%;
+  font-family: "Arial", sans-serif;
+}
+
+.bgimg {
+  background-color: rgb(12, 12, 20);
+  background-position: center;
+  background-size: cover;
+  background-image: ("images/magasin BCB.jpeg");
+  min-height: 75%;
+}
+
+nav {
+  color: greenyellow;
+}
+
+body {
+  background-color: rebeccapurple;
+}
+
+h1 {
+  color: green;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(61, 26, 26);
+}
+
+p {
+  color: blue;
+  font: Arial, sans-serif;
+}
+
+.Menu {
+  color: orange;
+  background-color: rgb(102, 17, 17);
+  background-size: cover;
+}
+
+#footer {
+  background-color: yellow;
+}
